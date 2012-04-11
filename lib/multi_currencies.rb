@@ -1,6 +1,5 @@
 require 'spree_core'
 
-
 module MultiCurrencies
   class Engine < Rails::Engine
     railtie_name "spree-multi-currencies"
